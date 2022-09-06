@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sura - Rider App</string>
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@drawable/splash</item>
+    </style>
+</resources>
+
